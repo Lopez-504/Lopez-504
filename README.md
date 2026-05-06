@@ -9,8 +9,7 @@ I am a Physicist specializing in **Scientific Computing**, passionate about the 
 
 | Coding | Music | Earth | Movies | Reading | Sports |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/95dbe546-c0d4-4c7a-9ba3-1eee2d4e0d64" /> | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/55dcd64f-e059-47a0-b73b-367b2329a96b" /> | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/313fdff9-3048-4c01-8296-9b4b742a6f8f" /> | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/9fcab7b4-7d0d-48a4-ab54-df5f4f53fe9f" /> | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/ebd8e206-ab1d-40d6-b6b8-c575022db8b3" /> | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/3243520f-bbcb-4356-8ee8-1be6a6386f20" />
- |
+| <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/95dbe546-c0d4-4c7a-9ba3-1eee2d4e0d64" /> | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/55dcd64f-e059-47a0-b73b-367b2329a96b" /> | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/313fdff9-3048-4c01-8296-9b4b742a6f8f" /> | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/9fcab7b4-7d0d-48a4-ab54-df5f4f53fe9f" /> | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/ebd8e206-ab1d-40d6-b6b8-c575022db8b3" /> | <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/3243520f-bbcb-4356-8ee8-1be6a6386f20" /> |
 
 ---
 
