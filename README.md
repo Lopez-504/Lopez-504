@@ -40,6 +40,12 @@ Feel free to reach out if you want to talk about cosmology, web-based data viz, 
 
 ---
 
+| Coding | Music | Earth | Movies | Reading | 
+| :---: | :---: | :---: | :---: | :---: |
+| <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/95dbe546-c0d4-4c7a-9ba3-1eee2d4e0d64" /> | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/55dcd64f-e059-47a0-b73b-367b2329a96b" /> | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/313fdff9-3048-4c01-8296-9b4b742a6f8f" /> | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9fcab7b4-7d0d-48a4-ab54-df5f4f53fe9f" /> | <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ebd8e206-ab1d-40d6-b6b8-c575022db8b3" /> |
+
+---
+
 > *"The mass of a body is a measure of its energy-content." — Albert Einstein*
 
 <!--
@@ -57,7 +63,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/95dbe546-c0d4-4c7a-9ba3-1eee2d4e0d64" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/55dcd64f-e059-47a0-b73b-367b2329a96b" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/313fdff9-3048-4c01-8296-9b4b742a6f8f" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9fcab7b4-7d0d-48a4-ab54-df5f4f53fe9f" /> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ebd8e206-ab1d-40d6-b6b8-c575022db8b3" />
+
 
 
 
