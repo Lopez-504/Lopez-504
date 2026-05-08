@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Jorge Sebastián López Retamal here
+## Jorge Sebastián López Retamal, here
 Physicist | Scientific Computing Developer | Tech Enthusiast
 
 I am a Physicist specializing in **Scientific Computing**, passionate about the intersection of complex physical simulations and modern web technologies. My work ranges from modeling the large-scale structure of the universe to building real-time environmental monitoring systems.
@@ -35,6 +35,7 @@ When I'm not running simulations or debugging React components, you might find m
 ### 📊 Stats & Activity
 *   **Current Location:** Villa Alemana, Chile 🇨🇱
 *   **Education:** B.Sc. in Physics (Scientific Computing)
+*   Check [my blog](https://lopez-504.github.io/jorgelopezblog/)
 
 ---
 
