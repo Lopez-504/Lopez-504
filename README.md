@@ -48,7 +48,7 @@ Feel free to reach out if you want to talk about cosmology, web-based data viz, 
 ---
 
 
-> *"The mass of a body is a measure of its energy-content." — Albert Einstein*
+> *"But at another time I say to myself: "At some moment or other one is absent-minded, and that is enough!" — Antoine de Saint Exupéry*
 
 <!--
 **Lopez-504/Lopez-504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
